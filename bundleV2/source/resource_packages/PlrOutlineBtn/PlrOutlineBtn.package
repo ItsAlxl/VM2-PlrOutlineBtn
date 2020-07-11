@@ -1,0 +1,11 @@
+mod = [
+	"PlrOutlineBtn"
+]
+
+package = [
+	"resource_packages/PlrOutlineBtn/PlrOutlineBtn"
+]
+
+lua = [
+	"scripts/mods/PlrOutlineBtn/*"
+]
